@@ -8,6 +8,7 @@ Current:
 - Workstation
 - Sum Studios
 - Portland Works
+- SOAR Works
 
 Soon: 
 - ‘Maker Hub’ in Castle House (by DotForge)
